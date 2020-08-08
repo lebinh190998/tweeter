@@ -1,0 +1,18 @@
+.tweeter {
+    background: white;
+    border-radius: 10px;
+    height: 95%;
+    width: 50%;
+}
+
+.tweeter-header {
+    background: white;
+    border-radius: 10px;
+    height: 20%;
+}
+
+.tweeter-body {
+    background: white;
+    border-radius: 10px;
+    height: 80%;
+}
